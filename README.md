@@ -9,20 +9,20 @@
 
 # Spec Sheet
 
-Dual stage brushless design (190-230fps)
-Solenoid firing (+30dps)
-6S powered, 4S compatible with lower firing rates
-Full closed loop control of motor RPM and solenoid position
-Modular stock and front BCAR
-Fully configurable menu with joystick and display
-Magazine detection sensor
-Tournament mode
-Dynamic motor idling by gyro
-Multiple firing modes and up to 5 user presets
-Aluminum sides for motor cooling
-Dimensions (approx): H=181mm, L=263mm (picatinny stock), W=28mm (very thin)
-Uses Worker Talon (and similar) magazines
-Sleep mode after inactivity
+-  Dual stage brushless design (190-230fps)
+-  Solenoid firing (+30dps)
+-  6S powered, 4S compatible with lower firing rates
+-  Full closed loop control of motor RPM and solenoid position
+-  Modular stock and front BCAR
+-  Fully configurable menu with joystick and display
+-  Magazine detection sensor
+-  Tournament mode
+-  Dynamic motor idling by gyro
+-  Multiple firing modes and up to 5 user presets
+-  Aluminum sides for motor cooling
+-  Dimensions (approx): H=181mm, L=263mm (picatinny stock), W=28mm (very thin)
+-  Uses Worker Talon (and similar) magazines
+-  Sleep mode after inactivity
 
 # About
 
