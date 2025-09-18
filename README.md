@@ -1,7 +1,7 @@
 # Stinger
 
 [![Discord](https://img.shields.io/discord/1318280486107480064?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5765F2)](https://discord.gg/RR9ZNNtcx3)
-[![Makerworld]()]([https://discord.gg/RR9ZNNtcx3](https://makerworld.com/en/models/1807037-stinger-v2-dual-stage-brushless-nerf-blaster#profileId-1927480))
+
 
 -   Documentation can be found in the [Wiki](https://github.com/Project-Stinger/Main/wiki)
 -   For building your own stinger, check out the [Assembly Guide](https://github.com/Project-Stinger/Stinger-Docs/blob/main/StingerV2AssemblyGuide.pdf). Hardware kits are available [from IFB](https://ifb.sg/products/project-stinger-v2), and assembly videos will come soon.
