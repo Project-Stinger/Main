@@ -1,11 +1,12 @@
 # Stinger
 
 [![Discord](https://img.shields.io/discord/1318280486107480064?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5765F2)](https://discord.gg/RR9ZNNtcx3)
+[![Makerworld]()]([https://discord.gg/RR9ZNNtcx3](https://makerworld.com/en/models/1807037-stinger-v2-dual-stage-brushless-nerf-blaster#profileId-1927480))
 
 -   Documentation can be found in the [Wiki](https://github.com/Project-Stinger/Main/wiki)
 -   For building your own stinger, check out the [Assembly Guide](https://github.com/Project-Stinger/Stinger-Docs/blob/main/StingerV2AssemblyGuide.pdf). Hardware kits are available [from IFB](https://ifb.sg/products/project-stinger-v2), and assembly videos will come soon.
 -   If you want to join the community or have questions, the best place to ask is the [Discord server](https://discord.gg/RR9ZNNtcx3). Alternatively, you can also use the [GitHub Discussions](https://github.com/Project-Stinger/Main/discussions).
--   3D print models are available in the [3D-Files repository](https://github.com/Project-Stinger/3D-Files), and you can find the OnShape CAD files [here](https://cad.onshape.com/documents/ffcb080386f1b38e45048950/w/111deafb99be991b56406227/e/2f9053495b44df3bf5ec6d73?renderMode=0&uiState=68cc3c6873af9957c3936df9).
+-   3D print models are available in the [3D-Files repository](https://github.com/Project-Stinger/3D-Files), and you can find the OnShape CAD files [here](https://cad.onshape.com/documents/ffcb080386f1b38e45048950/w/111deafb99be991b56406227/e/2f9053495b44df3bf5ec6d73?renderMode=0&uiState=68cc3c6873af9957c3936df9), makerworld page [here](https://makerworld.com/en/models/1807037-stinger-v2-dual-stage-brushless-nerf-blaster#profileId-1927480)
 
 # Spec Sheet
 
