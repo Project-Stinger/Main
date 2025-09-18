@@ -1,7 +1,8 @@
 # Stinger
 
+[![Get Hardware Kit](https://img.shields.io/badge/Get_Hardware_Kit-1e4b6d?style=for-the-badge)](https://ifb.sg/products/project-stinger-v2)
 [![Discord](https://img.shields.io/discord/1318280486107480064?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5765F2)](https://discord.gg/RR9ZNNtcx3)
-
+[![Download from Makerworld](https://img.shields.io/badge/Makerworld-00ae42?style=for-the-badge)](https://makerworld.com/en/models/1807037-stinger-v2-dual-stage-brushless-nerf-blaster#profileId-1927480)
 
 -   Documentation can be found in the [Wiki](https://github.com/Project-Stinger/Main/wiki)
 -   For building your own stinger, check out the [Assembly Guide](https://github.com/Project-Stinger/Stinger-Docs/blob/main/StingerV2AssemblyGuide.pdf). Hardware kits are available [from IFB](https://ifb.sg/products/project-stinger-v2), and assembly videos will come soon.
@@ -37,7 +38,9 @@ Multiple BCAR\* and stock modules\*\* offer flexibility in accuracy and playing 
 
 <details>
 *BCAR (Bearing Centered Auto-Rotating) does 2 things. It stabilizes the rear of the dart as it comes out of the barrel (check initial video) causing less random drag, and it provides spin to the dart which then gyroscopically stabilizes it like rifling in a barrel. Right now 3 modules exist, Low Crush (2.7mm), High Crush (3.0mm) and nobcar.
+
 \*\*Current stock modules include: folding stock (with carbon fiber rods), locking stock (same rod system), and picatinny stock. But more can be designed in the future.
+
 </details><br>
 
 A [custom PCB](https://github.com/Project-Stinger/Electronics) houses all the input/output devices, controlled by an RP2040. It also has a high side switch to enter sleep mode. In sleep mode, the screen and ESC are turned off so the battery does not drain as quickly during the matches.
