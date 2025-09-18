@@ -1,7 +1,7 @@
 # Stinger
 
 [![Get Hardware Kit](https://img.shields.io/badge/Get_Hardware_Kit-1e4b6d?style=for-the-badge)](https://ifb.sg/products/project-stinger-v2)
-[![Discord](https://img.shields.io/discord/1318280486107480064?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5765F2)](https://discord.gg/RR9ZNNtcx3)
+[![Discord](https://img.shields.io/discord/1318280486107480064?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=6765F2)](https://discord.gg/RR9ZNNtcx3)
 [![Download from Makerworld](https://img.shields.io/badge/Makerworld-00ae42?style=for-the-badge&logo=bambu%20lab&logoColor=white)](https://makerworld.com/en/models/1807037-stinger-v2-dual-stage-brushless-nerf-blaster)
 [![Youtube](https://img.shields.io/badge/YouTube-f32019?style=for-the-badge&logo=youtube)](https://www.youtube.com/@stingernerf)
 
