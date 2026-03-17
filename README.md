@@ -16,6 +16,7 @@
 -   Dual stage brushless design (190+ fps)
 -   Solenoid firing (30+ dps)
 -   6S powered, 4S compatible with lower firing rates
+-   Machine Learning pre-fire detection with local data collection and inference
 -   Full closed loop control of motor RPM and solenoid position
 -   Modular stock and front BCAR
 -   Fully configurable menu with joystick and display
