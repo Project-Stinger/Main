@@ -1,12 +1,12 @@
 # Stinger
 
-[![Get Hardware Kit](https://img.shields.io/badge/Get_Hardware_Kit-1e4b6d?style=for-the-badge)](https://ifb.sg/products/project-stinger-v2)
+[![Get Hardware Kit](https://img.shields.io/badge/Get_Hardware_Kit-1e4b6d?style=for-the-badge)](https://ifb.sg/products/project-stinger-v2-hardware-kit)
 [![Discord](https://img.shields.io/discord/1318280486107480064?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=6765F2)](https://discord.gg/RR9ZNNtcx3)
 [![Download from Makerworld](https://img.shields.io/badge/Makerworld-00ae42?style=for-the-badge&logo=bambu%20lab&logoColor=white)](https://makerworld.com/en/models/1807037-stinger-v2-dual-stage-brushless-nerf-blaster)
 [![Youtube](https://img.shields.io/badge/YouTube-f32019?style=for-the-badge&logo=youtube)](https://www.youtube.com/@stingernerf)
 
 -   Documentation can be found in the [Wiki](https://github.com/Project-Stinger/Main/wiki)
--   For building your own stinger, check out the [Assembly Guide](https://github.com/Project-Stinger/Stinger-Docs/blob/main/StingerV2AssemblyGuide.pdf). Hardware kits are available [from IFB](https://ifb.sg/products/project-stinger-v2), and assembly videos will come soon.
+-   For building your own stinger, check out the [Assembly Guide](https://github.com/Project-Stinger/Stinger-Docs/blob/main/StingerV2AssemblyGuide.pdf). Hardware kits are available [from IFB](https://ifb.sg/products/project-stinger-v2-hardware-kit), and assembly videos will come soon.
 -   If you want to join the community or have questions, the best place to ask is the [Discord server](https://discord.gg/RR9ZNNtcx3). Alternatively, you can also use the [GitHub Discussions](https://github.com/Project-Stinger/Main/discussions).
 -   3D print models are available in the [3D-Files repository](https://github.com/Project-Stinger/3D-Files), and you can find the OnShape CAD files [here](https://cad.onshape.com/documents/ffcb080386f1b38e45048950/w/111deafb99be991b56406227/e/2f9053495b44df3bf5ec6d73?renderMode=0&uiState=68cc3c6873af9957c3936df9), makerworld page [here](https://makerworld.com/en/models/1807037-stinger-v2-dual-stage-brushless-nerf-blaster#profileId-1927480)
 -   See the firmware source code [here](https://github.com/Project-Stinger/Firmware) or [have a look at the PCB](https://github.com/Project-Stinger/Electronics)
